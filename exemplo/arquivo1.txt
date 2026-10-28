@@ -1,0 +1,6 @@
+Este é um arquivo de exemplo para testes de criptografia.
+Contém informações não confidenciais apenas para demonstração.
+
+Data: 2024
+Autor: Estudo de Cibersegurança
+Propósito: Educacional

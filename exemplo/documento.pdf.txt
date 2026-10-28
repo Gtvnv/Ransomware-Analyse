@@ -1,0 +1,14 @@
+DOCUMENTO DE TESTE
+
+Título: Relatório de Segurança
+Versão: 1.0
+Data: Outubro 2024
+
+Conteúdo:
+1. Introdução à criptografia
+2. Algoritmos simétricos vs assimétricos
+3. Melhores práticas de segurança
+4. Prevenção contra ransomware
+
+Este documento é apenas para fins educacionais.
+Nenhuma informação confidencial está presente.

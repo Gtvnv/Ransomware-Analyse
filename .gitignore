@@ -1,0 +1,23 @@
+# Não subir chaves privadas ou arquivos temporários
+*.key
+*.encrypted
+*.salt.bin
+.salt.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Ambientes de teste
+test_files/
+test_env/
+
+# IDEs / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
